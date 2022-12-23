@@ -1,5 +1,4 @@
 c       MARTA XIULAN ARIBÓ HERRERA
-C       PRÀCTICA 8 DE FÍSICA COMPUTACIONAL
 C       En aquesta pràctica resoldrem l'equació d'Schrödinger independent 
 c       del temps per trobar els autovalors i autovectors d'una partícula
 c       mitjantçant el mètode de Runge Kutta 4
