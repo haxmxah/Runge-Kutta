@@ -10,3 +10,21 @@ We used integral methods (see more in my other repository).
 Net, we study the effect of fourth order anharmonicity:
 
 $$V_2(x)=\frac{1}{2} m_e \omega^2 x^2 +\beta x^4$$
+
+```
+gfortran -name_of_the_file.f -o name_of_the_output_file.out
+```
+### Execution
+```
+./name_of_the_output_file.out
+```
+
+## Windows
+### Compilation
+```
+gfortran -name_of_the_file.f -o name_of_the_output_file.exe
+```
+### Execution
+```
+./name_of_the_output_file.exe
+```
